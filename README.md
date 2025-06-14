@@ -15,6 +15,8 @@
       <li><b>Telehealth</b> - <u><i>You can talk to certified doctors through your phone or computer. </i></u></li>
       <li><b>Medical Supplies</b> - <u><i>We have many things for sale like wheelchairs, thermometers, masks, and more! </i></u></li>
 
+    </ul>
+
 <h2 sytle="color: green;">Get in contact with us!</h2>
 <ol>
   <li>Call or Email us to set up a meeting</li>
