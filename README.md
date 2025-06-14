@@ -23,7 +23,7 @@
   <li>Tell us what services you need and we can make a plan to help you.</li>
 </ol>
 
-<p><img src="https://github.com/agatoto/agatoto.github.io/blob/main/Eloheh%20Healthcare.jpg" height="240" width="200" align="center"/><p/>
+<p><img src="https://github.com/agatoto/agatoto.github.io/blob/main/Eloheh%20Healthcare.JPG" height="250" width="220" align="center"/><p/>
 
 <p>Learn more about healthcare services at the <a href="https://www.cdc.gov/telehealth/" target="_blank">CDC website</a>.</p>
 
