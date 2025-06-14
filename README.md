@@ -29,7 +29,7 @@
 
 <p><a href="Eloheh_Brochure.pdf" download>Click here to download the brochure!</a>.</p>
 
-<p>Contact us: <a href="mailto:eloheh.services@example.com">eloheh.services@example.com</a></p>
+<p>Contact us: <a href="mailto:eloheh.services@example.com">eloheh.services@elohehhealthcare.com</a></p>
 
 <p sytle="font-size: 12px; color: gray;">Last modified: <span id="lastModified"></span></p>
 
