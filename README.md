@@ -23,7 +23,7 @@
   <li>Tell us what services you need and we can make a plan to help you.</li>
 </ol>
 
-<img src="[https://via.placeholder.com/400x200.png?text=Eloheh+Healthcare](https://via.placeholder.com/400x200.png?text=Eloheh+Healthcare)" alt="Eloheh Services" width="400" />
+<img src="![Eloheh Healthcare](https://github.com/user-attachments/assets/b389dfe8-5d8c-45bc-8919-09c7e112c65d)/>
 
 <p>Learn more about healthcare services at the <a href="https://www.cdc.gov/telehealth/" target="_blank">CDC website</a>.</p>
 
