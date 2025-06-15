@@ -25,7 +25,7 @@
 
 <p>Learn more about healthcare services at the <a href="https://www.cdc.gov/telehealth/" target="_blank">CDC website</a>.</p>
 
-<p><a href="Eloheh_Brochure.pdf" download>Click here to download the brochure!</a>.</p>
+<p><a href="(https://github.com/agatoto/agatoto.github.io/blob/main/Eloheh%20Healthcare%20Medical%20Supplies.docx)" download>Click here to download our Medical Supplies available for sale!</a>.</p>
 
 <p>Contact us: <a href="mailto:eloheh.services@example.com">eloheh.services@elohehhealthcare.com</a></p>
 
